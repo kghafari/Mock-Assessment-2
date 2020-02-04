@@ -1,0 +1,11 @@
+C:\Users\kyleg\source\repos\MockAssessment2a\MockAssessment2a_OneMoreTime\bin\Debug\netcoreapp3.0\MockAssessment2a_OneMoreTime.exe
+C:\Users\kyleg\source\repos\MockAssessment2a\MockAssessment2a_OneMoreTime\bin\Debug\netcoreapp3.0\MockAssessment2a_OneMoreTime.deps.json
+C:\Users\kyleg\source\repos\MockAssessment2a\MockAssessment2a_OneMoreTime\bin\Debug\netcoreapp3.0\MockAssessment2a_OneMoreTime.runtimeconfig.json
+C:\Users\kyleg\source\repos\MockAssessment2a\MockAssessment2a_OneMoreTime\bin\Debug\netcoreapp3.0\MockAssessment2a_OneMoreTime.runtimeconfig.dev.json
+C:\Users\kyleg\source\repos\MockAssessment2a\MockAssessment2a_OneMoreTime\bin\Debug\netcoreapp3.0\MockAssessment2a_OneMoreTime.dll
+C:\Users\kyleg\source\repos\MockAssessment2a\MockAssessment2a_OneMoreTime\bin\Debug\netcoreapp3.0\MockAssessment2a_OneMoreTime.pdb
+C:\Users\kyleg\source\repos\MockAssessment2a\MockAssessment2a_OneMoreTime\obj\Debug\netcoreapp3.0\MockAssessment2a_OneMoreTime.csprojAssemblyReference.cache
+C:\Users\kyleg\source\repos\MockAssessment2a\MockAssessment2a_OneMoreTime\obj\Debug\netcoreapp3.0\MockAssessment2a_OneMoreTime.AssemblyInfoInputs.cache
+C:\Users\kyleg\source\repos\MockAssessment2a\MockAssessment2a_OneMoreTime\obj\Debug\netcoreapp3.0\MockAssessment2a_OneMoreTime.AssemblyInfo.cs
+C:\Users\kyleg\source\repos\MockAssessment2a\MockAssessment2a_OneMoreTime\obj\Debug\netcoreapp3.0\MockAssessment2a_OneMoreTime.dll
+C:\Users\kyleg\source\repos\MockAssessment2a\MockAssessment2a_OneMoreTime\obj\Debug\netcoreapp3.0\MockAssessment2a_OneMoreTime.pdb

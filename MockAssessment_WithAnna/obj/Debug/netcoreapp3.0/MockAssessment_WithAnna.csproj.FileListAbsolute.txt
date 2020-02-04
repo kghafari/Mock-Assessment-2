@@ -1,0 +1,11 @@
+C:\Users\kyleg\source\repos\MockAssessment2a\MockAssessment_WithAnna\bin\Debug\netcoreapp3.0\MockAssessment_WithAnna.exe
+C:\Users\kyleg\source\repos\MockAssessment2a\MockAssessment_WithAnna\bin\Debug\netcoreapp3.0\MockAssessment_WithAnna.deps.json
+C:\Users\kyleg\source\repos\MockAssessment2a\MockAssessment_WithAnna\bin\Debug\netcoreapp3.0\MockAssessment_WithAnna.runtimeconfig.json
+C:\Users\kyleg\source\repos\MockAssessment2a\MockAssessment_WithAnna\bin\Debug\netcoreapp3.0\MockAssessment_WithAnna.runtimeconfig.dev.json
+C:\Users\kyleg\source\repos\MockAssessment2a\MockAssessment_WithAnna\bin\Debug\netcoreapp3.0\MockAssessment_WithAnna.dll
+C:\Users\kyleg\source\repos\MockAssessment2a\MockAssessment_WithAnna\bin\Debug\netcoreapp3.0\MockAssessment_WithAnna.pdb
+C:\Users\kyleg\source\repos\MockAssessment2a\MockAssessment_WithAnna\obj\Debug\netcoreapp3.0\MockAssessment_WithAnna.csprojAssemblyReference.cache
+C:\Users\kyleg\source\repos\MockAssessment2a\MockAssessment_WithAnna\obj\Debug\netcoreapp3.0\MockAssessment_WithAnna.AssemblyInfoInputs.cache
+C:\Users\kyleg\source\repos\MockAssessment2a\MockAssessment_WithAnna\obj\Debug\netcoreapp3.0\MockAssessment_WithAnna.AssemblyInfo.cs
+C:\Users\kyleg\source\repos\MockAssessment2a\MockAssessment_WithAnna\obj\Debug\netcoreapp3.0\MockAssessment_WithAnna.dll
+C:\Users\kyleg\source\repos\MockAssessment2a\MockAssessment_WithAnna\obj\Debug\netcoreapp3.0\MockAssessment_WithAnna.pdb
